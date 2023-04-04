@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+fieldset{
+    background-color: antiquewhite;
+    /* border: 2px solid black; */
+    width: 28%;
+    margin-left: 34%;
+    padding: 30px;
+    
+}
+
+form input{
+    width: 233px;
+    height: 30px;
+}
+.line {
+    border: none;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+}
+.btn:hover{
+    
+    cursor: pointer;
+    background-color: red;
+    border: none;
+
+}
